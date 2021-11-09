@@ -1,1 +1,1 @@
-![image](https://github.com/caue-santos/caue-santos/blob/master/code.gif)
+![image](https://github.com/caue-santos/caue-santos/blob/main/code.gif)
